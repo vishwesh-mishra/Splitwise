@@ -1,5 +1,8 @@
 # Splitwise
 
+## Full Explanation  
+https://workat.tech/machine-coding/practice/splitwise-problem-0kp2yneec2q2  
+
 ## Sample Input  
 
 SHOW  
